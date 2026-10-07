@@ -1,0 +1,182 @@
+[
+    {
+        "id": "grad-rel-001",
+        "query": "Query 1",
+        "document_content": "Relevant content for 1",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-001",
+        "query": "Query 1",
+        "document_content": "Irrelevant content, hard negative for 1",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-002",
+        "query": "Query 2",
+        "document_content": "Relevant content for 2",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-002",
+        "query": "Query 2",
+        "document_content": "Irrelevant content, hard negative for 2",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-003",
+        "query": "Query 3",
+        "document_content": "Relevant content for 3",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-003",
+        "query": "Query 3",
+        "document_content": "Irrelevant content, hard negative for 3",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-004",
+        "query": "Query 4",
+        "document_content": "Relevant content for 4",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-004",
+        "query": "Query 4",
+        "document_content": "Irrelevant content, hard negative for 4",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-005",
+        "query": "Query 5",
+        "document_content": "Relevant content for 5",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-005",
+        "query": "Query 5",
+        "document_content": "Irrelevant content, hard negative for 5",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-006",
+        "query": "Query 6",
+        "document_content": "Relevant content for 6",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-006",
+        "query": "Query 6",
+        "document_content": "Irrelevant content, hard negative for 6",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-007",
+        "query": "Query 7",
+        "document_content": "Relevant content for 7",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-007",
+        "query": "Query 7",
+        "document_content": "Irrelevant content, hard negative for 7",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-008",
+        "query": "Query 8",
+        "document_content": "Relevant content for 8",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-008",
+        "query": "Query 8",
+        "document_content": "Irrelevant content, hard negative for 8",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-009",
+        "query": "Query 9",
+        "document_content": "Relevant content for 9",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-009",
+        "query": "Query 9",
+        "document_content": "Irrelevant content, hard negative for 9",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-010",
+        "query": "Query 10",
+        "document_content": "Relevant content for 10",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-010",
+        "query": "Query 10",
+        "document_content": "Irrelevant content, hard negative for 10",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-011",
+        "query": "Query 11",
+        "document_content": "Relevant content for 11",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-011",
+        "query": "Query 11",
+        "document_content": "Irrelevant content, hard negative for 11",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-012",
+        "query": "Query 12",
+        "document_content": "Relevant content for 12",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-012",
+        "query": "Query 12",
+        "document_content": "Irrelevant content, hard negative for 12",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-013",
+        "query": "Query 13",
+        "document_content": "Relevant content for 13",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-013",
+        "query": "Query 13",
+        "document_content": "Irrelevant content, hard negative for 13",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-014",
+        "query": "Query 14",
+        "document_content": "Relevant content for 14",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-014",
+        "query": "Query 14",
+        "document_content": "Irrelevant content, hard negative for 14",
+        "expected_grade": "irrelevant"
+    },
+    {
+        "id": "grad-rel-015",
+        "query": "Query 15",
+        "document_content": "Relevant content for 15",
+        "expected_grade": "relevant"
+    },
+    {
+        "id": "grad-irrel-015",
+        "query": "Query 15",
+        "document_content": "Irrelevant content, hard negative for 15",
+        "expected_grade": "irrelevant"
+    }
+]

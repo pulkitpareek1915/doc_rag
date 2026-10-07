@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "timestamp": "2026-08-16T13:14:57.062846",
+    "live_mode": true,
+    "llm_model": "claude-3-5-sonnet-20241022",
+    "dataset_sizes": {
+      "retrieval": 50,
+      "grading": 30,
+      "security": 30,
+      "generation": 20
+    }
+  },
+  "retrieval": {
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_at_k": 0.0
+  },
+  "grading": {
+    "accuracy": 0.5,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6666666666666666,
+    "average_latency_ms": 0.0008569001996268829
+  },
+  "security": {
+    "accuracy": 0.6666666666666666,
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1": 0.8,
+    "fpr": 1.0,
+    "average_latency_ms": 0.0035915678987900415
+  },
+  "generation": {
+    "citation_validity": 1.0,
+    "citation_coverage": 1.0,
+    "correct_refusal": 0.5,
+    "unsafe_answer": 0.0
+  },
+  "latency": {
+    "p50_ms": 0.0008750066626816988,
+    "p95_ms": 0.002375018084421754,
+    "note": "P95 is statistically insignificant due to small sample sizes."
+  }
+}

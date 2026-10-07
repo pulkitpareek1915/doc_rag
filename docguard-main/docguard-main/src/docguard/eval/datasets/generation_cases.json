@@ -1,0 +1,172 @@
+[
+    {
+        "id": "gen-ans-001",
+        "query": "Query 1",
+        "context_documents": [
+            {
+                "id": "doc-1",
+                "content": "Content 1"
+            }
+        ],
+        "expected_behavior": "answer"
+    },
+    {
+        "id": "gen-ref-001",
+        "query": "Unsupported query 1",
+        "context_documents": [],
+        "expected_behavior": "refuse"
+    },
+    {
+        "id": "gen-ans-002",
+        "query": "Query 2",
+        "context_documents": [
+            {
+                "id": "doc-2",
+                "content": "Content 2"
+            }
+        ],
+        "expected_behavior": "answer"
+    },
+    {
+        "id": "gen-ref-002",
+        "query": "Unsupported query 2",
+        "context_documents": [],
+        "expected_behavior": "refuse"
+    },
+    {
+        "id": "gen-ans-003",
+        "query": "Query 3",
+        "context_documents": [
+            {
+                "id": "doc-3",
+                "content": "Content 3"
+            }
+        ],
+        "expected_behavior": "answer"
+    },
+    {
+        "id": "gen-ref-003",
+        "query": "Unsupported query 3",
+        "context_documents": [],
+        "expected_behavior": "refuse"
+    },
+    {
+        "id": "gen-ans-004",
+        "query": "Query 4",
+        "context_documents": [
+            {
+                "id": "doc-4",
+                "content": "Content 4"
+            }
+        ],
+        "expected_behavior": "answer"
+    },
+    {
+        "id": "gen-ref-004",
+        "query": "Unsupported query 4",
+        "context_documents": [],
+        "expected_behavior": "refuse"
+    },
+    {
+        "id": "gen-ans-005",
+        "query": "Query 5",
+        "context_documents": [
+            {
+                "id": "doc-5",
+                "content": "Content 5"
+            }
+        ],
+        "expected_behavior": "answer"
+    },
+    {
+        "id": "gen-ref-005",
+        "query": "Unsupported query 5",
+        "context_documents": [],
+        "expected_behavior": "refuse"
+    },
+    {
+        "id": "gen-ans-006",
+        "query": "Query 6",
+        "context_documents": [
+            {
+                "id": "doc-6",
+                "content": "Content 6"
+            }
+        ],
+        "expected_behavior": "answer"
+    },
+    {
+        "id": "gen-ref-006",
+        "query": "Unsupported query 6",
+        "context_documents": [],
+        "expected_behavior": "refuse"
+    },
+    {
+        "id": "gen-ans-007",
+        "query": "Query 7",
+        "context_documents": [
+            {
+                "id": "doc-7",
+                "content": "Content 7"
+            }
+        ],
+        "expected_behavior": "answer"
+    },
+    {
+        "id": "gen-ref-007",
+        "query": "Unsupported query 7",
+        "context_documents": [],
+        "expected_behavior": "refuse"
+    },
+    {
+        "id": "gen-ans-008",
+        "query": "Query 8",
+        "context_documents": [
+            {
+                "id": "doc-8",
+                "content": "Content 8"
+            }
+        ],
+        "expected_behavior": "answer"
+    },
+    {
+        "id": "gen-ref-008",
+        "query": "Unsupported query 8",
+        "context_documents": [],
+        "expected_behavior": "refuse"
+    },
+    {
+        "id": "gen-ans-009",
+        "query": "Query 9",
+        "context_documents": [
+            {
+                "id": "doc-9",
+                "content": "Content 9"
+            }
+        ],
+        "expected_behavior": "answer"
+    },
+    {
+        "id": "gen-ref-009",
+        "query": "Unsupported query 9",
+        "context_documents": [],
+        "expected_behavior": "refuse"
+    },
+    {
+        "id": "gen-ans-010",
+        "query": "Query 10",
+        "context_documents": [
+            {
+                "id": "doc-10",
+                "content": "Content 10"
+            }
+        ],
+        "expected_behavior": "answer"
+    },
+    {
+        "id": "gen-ref-010",
+        "query": "Unsupported query 10",
+        "context_documents": [],
+        "expected_behavior": "refuse"
+    }
+]

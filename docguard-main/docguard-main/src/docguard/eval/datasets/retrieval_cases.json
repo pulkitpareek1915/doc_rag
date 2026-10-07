@@ -1,0 +1,402 @@
+[
+    {
+        "id": "ret-001",
+        "query": "What is the policy for scenario 1?",
+        "relevant_document_ids": [
+            "doc-1",
+            "doc-101"
+        ]
+    },
+    {
+        "id": "ret-002",
+        "query": "What is the policy for scenario 2?",
+        "relevant_document_ids": [
+            "doc-2",
+            "doc-102"
+        ]
+    },
+    {
+        "id": "ret-003",
+        "query": "What is the policy for scenario 3?",
+        "relevant_document_ids": [
+            "doc-3",
+            "doc-103"
+        ]
+    },
+    {
+        "id": "ret-004",
+        "query": "What is the policy for scenario 4?",
+        "relevant_document_ids": [
+            "doc-4",
+            "doc-104"
+        ]
+    },
+    {
+        "id": "ret-005",
+        "query": "What is the policy for scenario 5?",
+        "relevant_document_ids": [
+            "doc-5",
+            "doc-105"
+        ]
+    },
+    {
+        "id": "ret-006",
+        "query": "What is the policy for scenario 6?",
+        "relevant_document_ids": [
+            "doc-6",
+            "doc-106"
+        ]
+    },
+    {
+        "id": "ret-007",
+        "query": "What is the policy for scenario 7?",
+        "relevant_document_ids": [
+            "doc-7",
+            "doc-107"
+        ]
+    },
+    {
+        "id": "ret-008",
+        "query": "What is the policy for scenario 8?",
+        "relevant_document_ids": [
+            "doc-8",
+            "doc-108"
+        ]
+    },
+    {
+        "id": "ret-009",
+        "query": "What is the policy for scenario 9?",
+        "relevant_document_ids": [
+            "doc-9",
+            "doc-109"
+        ]
+    },
+    {
+        "id": "ret-010",
+        "query": "What is the policy for scenario 10?",
+        "relevant_document_ids": [
+            "doc-10",
+            "doc-110"
+        ]
+    },
+    {
+        "id": "ret-011",
+        "query": "What is the policy for scenario 11?",
+        "relevant_document_ids": [
+            "doc-11",
+            "doc-111"
+        ]
+    },
+    {
+        "id": "ret-012",
+        "query": "What is the policy for scenario 12?",
+        "relevant_document_ids": [
+            "doc-12",
+            "doc-112"
+        ]
+    },
+    {
+        "id": "ret-013",
+        "query": "What is the policy for scenario 13?",
+        "relevant_document_ids": [
+            "doc-13",
+            "doc-113"
+        ]
+    },
+    {
+        "id": "ret-014",
+        "query": "What is the policy for scenario 14?",
+        "relevant_document_ids": [
+            "doc-14",
+            "doc-114"
+        ]
+    },
+    {
+        "id": "ret-015",
+        "query": "What is the policy for scenario 15?",
+        "relevant_document_ids": [
+            "doc-15",
+            "doc-115"
+        ]
+    },
+    {
+        "id": "ret-016",
+        "query": "What is the policy for scenario 16?",
+        "relevant_document_ids": [
+            "doc-16",
+            "doc-116"
+        ]
+    },
+    {
+        "id": "ret-017",
+        "query": "What is the policy for scenario 17?",
+        "relevant_document_ids": [
+            "doc-17",
+            "doc-117"
+        ]
+    },
+    {
+        "id": "ret-018",
+        "query": "What is the policy for scenario 18?",
+        "relevant_document_ids": [
+            "doc-18",
+            "doc-118"
+        ]
+    },
+    {
+        "id": "ret-019",
+        "query": "What is the policy for scenario 19?",
+        "relevant_document_ids": [
+            "doc-19",
+            "doc-119"
+        ]
+    },
+    {
+        "id": "ret-020",
+        "query": "What is the policy for scenario 20?",
+        "relevant_document_ids": [
+            "doc-20",
+            "doc-120"
+        ]
+    },
+    {
+        "id": "ret-021",
+        "query": "What is the policy for scenario 21?",
+        "relevant_document_ids": [
+            "doc-21",
+            "doc-121"
+        ]
+    },
+    {
+        "id": "ret-022",
+        "query": "What is the policy for scenario 22?",
+        "relevant_document_ids": [
+            "doc-22",
+            "doc-122"
+        ]
+    },
+    {
+        "id": "ret-023",
+        "query": "What is the policy for scenario 23?",
+        "relevant_document_ids": [
+            "doc-23",
+            "doc-123"
+        ]
+    },
+    {
+        "id": "ret-024",
+        "query": "What is the policy for scenario 24?",
+        "relevant_document_ids": [
+            "doc-24",
+            "doc-124"
+        ]
+    },
+    {
+        "id": "ret-025",
+        "query": "What is the policy for scenario 25?",
+        "relevant_document_ids": [
+            "doc-25",
+            "doc-125"
+        ]
+    },
+    {
+        "id": "ret-026",
+        "query": "What is the policy for scenario 26?",
+        "relevant_document_ids": [
+            "doc-26",
+            "doc-126"
+        ]
+    },
+    {
+        "id": "ret-027",
+        "query": "What is the policy for scenario 27?",
+        "relevant_document_ids": [
+            "doc-27",
+            "doc-127"
+        ]
+    },
+    {
+        "id": "ret-028",
+        "query": "What is the policy for scenario 28?",
+        "relevant_document_ids": [
+            "doc-28",
+            "doc-128"
+        ]
+    },
+    {
+        "id": "ret-029",
+        "query": "What is the policy for scenario 29?",
+        "relevant_document_ids": [
+            "doc-29",
+            "doc-129"
+        ]
+    },
+    {
+        "id": "ret-030",
+        "query": "What is the policy for scenario 30?",
+        "relevant_document_ids": [
+            "doc-30",
+            "doc-130"
+        ]
+    },
+    {
+        "id": "ret-031",
+        "query": "What is the policy for scenario 31?",
+        "relevant_document_ids": [
+            "doc-31",
+            "doc-131"
+        ]
+    },
+    {
+        "id": "ret-032",
+        "query": "What is the policy for scenario 32?",
+        "relevant_document_ids": [
+            "doc-32",
+            "doc-132"
+        ]
+    },
+    {
+        "id": "ret-033",
+        "query": "What is the policy for scenario 33?",
+        "relevant_document_ids": [
+            "doc-33",
+            "doc-133"
+        ]
+    },
+    {
+        "id": "ret-034",
+        "query": "What is the policy for scenario 34?",
+        "relevant_document_ids": [
+            "doc-34",
+            "doc-134"
+        ]
+    },
+    {
+        "id": "ret-035",
+        "query": "What is the policy for scenario 35?",
+        "relevant_document_ids": [
+            "doc-35",
+            "doc-135"
+        ]
+    },
+    {
+        "id": "ret-036",
+        "query": "What is the policy for scenario 36?",
+        "relevant_document_ids": [
+            "doc-36",
+            "doc-136"
+        ]
+    },
+    {
+        "id": "ret-037",
+        "query": "What is the policy for scenario 37?",
+        "relevant_document_ids": [
+            "doc-37",
+            "doc-137"
+        ]
+    },
+    {
+        "id": "ret-038",
+        "query": "What is the policy for scenario 38?",
+        "relevant_document_ids": [
+            "doc-38",
+            "doc-138"
+        ]
+    },
+    {
+        "id": "ret-039",
+        "query": "What is the policy for scenario 39?",
+        "relevant_document_ids": [
+            "doc-39",
+            "doc-139"
+        ]
+    },
+    {
+        "id": "ret-040",
+        "query": "What is the policy for scenario 40?",
+        "relevant_document_ids": [
+            "doc-40",
+            "doc-140"
+        ]
+    },
+    {
+        "id": "ret-041",
+        "query": "What is the policy for scenario 41?",
+        "relevant_document_ids": [
+            "doc-41",
+            "doc-141"
+        ]
+    },
+    {
+        "id": "ret-042",
+        "query": "What is the policy for scenario 42?",
+        "relevant_document_ids": [
+            "doc-42",
+            "doc-142"
+        ]
+    },
+    {
+        "id": "ret-043",
+        "query": "What is the policy for scenario 43?",
+        "relevant_document_ids": [
+            "doc-43",
+            "doc-143"
+        ]
+    },
+    {
+        "id": "ret-044",
+        "query": "What is the policy for scenario 44?",
+        "relevant_document_ids": [
+            "doc-44",
+            "doc-144"
+        ]
+    },
+    {
+        "id": "ret-045",
+        "query": "What is the policy for scenario 45?",
+        "relevant_document_ids": [
+            "doc-45",
+            "doc-145"
+        ]
+    },
+    {
+        "id": "ret-046",
+        "query": "What is the policy for scenario 46?",
+        "relevant_document_ids": [
+            "doc-46",
+            "doc-146"
+        ]
+    },
+    {
+        "id": "ret-047",
+        "query": "What is the policy for scenario 47?",
+        "relevant_document_ids": [
+            "doc-47",
+            "doc-147"
+        ]
+    },
+    {
+        "id": "ret-048",
+        "query": "What is the policy for scenario 48?",
+        "relevant_document_ids": [
+            "doc-48",
+            "doc-148"
+        ]
+    },
+    {
+        "id": "ret-049",
+        "query": "What is the policy for scenario 49?",
+        "relevant_document_ids": [
+            "doc-49",
+            "doc-149"
+        ]
+    },
+    {
+        "id": "ret-050",
+        "query": "What is the policy for scenario 50?",
+        "relevant_document_ids": [
+            "doc-50",
+            "doc-150"
+        ]
+    }
+]
